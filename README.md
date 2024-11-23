@@ -23,7 +23,7 @@ av3a 真正的解码器，速度很快。 感谢@BaiPiaoH编译的windows版本�
 
 ## 现成播放器  
 
-release页面有mpv和potplayer的，下载即可
+release页面有mpv，下载即可
 
 ## 可能的错误  
 
